@@ -1,1 +1,5 @@
 # Ad Maiorem Dei Gloriam!
+
+# Binaries
+build/*.out
+build/*.exe
