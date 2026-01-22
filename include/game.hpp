@@ -15,6 +15,4 @@ private:
     static constexpr unsigned int WHEIGHT = 720;
     static constexpr unsigned int TARGETFPS = 60;
 
-    sf::RenderWindow window;
-    sf::Event event;
 };

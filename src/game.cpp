@@ -4,6 +4,8 @@
 Game::Game() {}
 
 void Game::run() {
+    sf::RenderWindow window;
+    sf::Event event;
 
     window.create({WWIDTH, WHEIGHT}, "Brackeys Platform Game - Clone");
 
